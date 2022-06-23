@@ -17,19 +17,3 @@
 </ul>
 
 
-<!-- HORIZONTAL LINE -->
-<hr />
-
-
-<!-- PROJECT STATUS -->
-<h6>FUNCIONALIDADES DO PROJETO</h6>
-
-- [x] CRUD;
-- [x] Paginação de resultados;
-- [x] HATEOAS;
-- [x] Configuração CORS;
-- [x] Content Negotiation (JSON, XML e YAML);
-- [x] Migrations;
-- [ ] Autenticação Spring Security e JWT;
-- [x] Documentação com Swagger.
-
